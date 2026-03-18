@@ -1,2 +1,2 @@
-microservices application built using java dropwizard
-# microservices-From-zero-to-production
+Microservices application built using java dropwizard
+Udemy course
